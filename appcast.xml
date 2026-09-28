@@ -6,6 +6,15 @@
     <description>Parley updates</description>
     <language>en</language>
     <item>
+      <title>Parley 1.1.0 (build 3)</title>
+      <pubDate>Mon, 28 Sep 2026 19:43:14 +0000</pubDate>
+      <description><![CDATA[Parley 1.1.0 — new color schemes (Linen, Midnight, Match system) and Settings before you sign in; Parley AI noise cancellation (Settings → Voice & audio); connect to Mumble servers; share your screen in voice rooms and calls; mute and deafen now fully apply in calls; many security and reliability fixes, including live updates that recover after a dropped connection.]]></description>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Tim-Ostrander/parley-releases/releases/download/v1.1.0-build3/Parley-1.1.0-3.dmg" type="application/octet-stream" sparkle:edSignature="ukkBl7Bd/kASr4slbCNDHiUoeccMQ8Jnj+Lf7J3oeCteKi+FOf5SFspWlZ7+74RFPttX4ZCozNk1H2/AntQRCg==" length="183230052" />
+    </item>
+    <item>
       <title>Parley 1.0.0 (build 2)</title>
       <pubDate>Sat, 26 Sep 2026 22:58:37 +0000</pubDate>
       <description><![CDATA[Build 2: verifies Parley's in-app updater end to end.]]></description>
