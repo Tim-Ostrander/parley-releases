@@ -6,6 +6,15 @@
     <description>Parley updates</description>
     <language>en</language>
     <item>
+      <title>Parley 1.1.1 (build 4)</title>
+      <pubDate>Mon, 28 Sep 2026 19:59:21 +0000</pubDate>
+      <description><![CDATA[Parley 1.1.1 — when your server can't be reached, Manage servers, Sign out and Try again now work right away; launching while a server is down no longer stalls; old saved server entries are repaired.]]></description>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Tim-Ostrander/parley-releases/releases/download/v1.1.1-build4/Parley-1.1.1-4.dmg" type="application/octet-stream" sparkle:edSignature="IOVcwWnSrHn74Zd8Jd2bCCPTEUfvGK11bxki9+sgAw+PqKLaR1GQLqIGdv1ZzN7cf+/x2sTcShMxXUFzTFRdAg==" length="183237477" />
+    </item>
+    <item>
       <title>Parley 1.1.0 (build 3)</title>
       <pubDate>Mon, 28 Sep 2026 19:43:14 +0000</pubDate>
       <description><![CDATA[Parley 1.1.0 — new color schemes (Linen, Midnight, Match system) and Settings before you sign in; Parley AI noise cancellation (Settings → Voice & audio); connect to Mumble servers; share your screen in voice rooms and calls; mute and deafen now fully apply in calls; many security and reliability fixes, including live updates that recover after a dropped connection.]]></description>
