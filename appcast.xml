@@ -6,6 +6,15 @@
     <description>Parley updates</description>
     <language>en</language>
     <item>
+      <title>Parley 1.4.1 (build 9)</title>
+      <pubDate>Tue, 29 Sep 2026 21:05:05 +0000</pubDate>
+      <description><![CDATA[Parley 1.4.1 (build 9).]]></description>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Tim-Ostrander/parley-releases/releases/download/v1.4.1-build9/Parley-1.4.1-9.dmg" type="application/octet-stream" sparkle:edSignature="C2xWj8A5VH/H3holpcR2wyWPe2Vir1m7fUWJcqgGh4zK0WRQAY1ujub5DrYztaDM+jJBWHwOpoxaZcJyv8iOCQ==" length="185249524" />
+    </item>
+    <item>
       <title>Parley 1.4.0 (build 8)</title>
       <pubDate>Tue, 29 Sep 2026 20:00:19 +0000</pubDate>
       <description><![CDATA[Parley 1.4.0 (build 8).]]></description>
