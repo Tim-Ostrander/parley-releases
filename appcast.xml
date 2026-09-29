@@ -6,6 +6,15 @@
     <description>Parley updates</description>
     <language>en</language>
     <item>
+      <title>Parley 1.3.0 (build 7)</title>
+      <pubDate>Tue, 29 Sep 2026 17:14:29 +0000</pubDate>
+      <description><![CDATA[Parley 1.3.0 — a redesign: tighter and cleaner everywhere; resize the sidebar (Cmd+\ hides it) and the room chat; rooms show who is inside right in the sidebar, double-click to join; a voice dock at the bottom of the sidebar; the voice room is a grid of tiles with volume on right-click; five color schemes (Midnight, Ember, Graphite, Linen, Daylight) plus Match system, and accent colors; clearer voice (96 kbit/s) and gentler noise cancellation.]]></description>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Tim-Ostrander/parley-releases/releases/download/v1.3.0-build7/Parley-1.3.0-7.dmg" type="application/octet-stream" sparkle:edSignature="a5rm1uk1GFcugRIPvdc12atLpD1syK6rjq20NCT7EdU1X1SKBP15LHgl1WLvjQy31RbU5c1ebqnTEeRQqzbIAQ==" length="182351195" />
+    </item>
+    <item>
       <title>Parley 1.2.0 (build 6)</title>
       <pubDate>Tue, 29 Sep 2026 00:40:04 +0000</pubDate>
       <description><![CDATA[Parley 1.2.0 — echo cancellation for Mumble voice (no more hearing yourself back on speakers); Mumble: encrypted UDP voice, whisper and shout, create/rename/move/delete channels, register on a server; send big files on self-hosted servers (up to 2 GB) with real progress, cancel and resume; Windows: global push-to-talk hotkeys, Ctrl/Alt key names, no flash at launch.]]></description>
