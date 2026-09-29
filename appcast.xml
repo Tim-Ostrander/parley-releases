@@ -6,6 +6,15 @@
     <description>Parley updates</description>
     <language>en</language>
     <item>
+      <title>Parley 1.2.0 (build 6)</title>
+      <pubDate>Tue, 29 Sep 2026 00:40:04 +0000</pubDate>
+      <description><![CDATA[Parley 1.2.0 — echo cancellation for Mumble voice (no more hearing yourself back on speakers); Mumble: encrypted UDP voice, whisper and shout, create/rename/move/delete channels, register on a server; send big files on self-hosted servers (up to 2 GB) with real progress, cancel and resume; Windows: global push-to-talk hotkeys, Ctrl/Alt key names, no flash at launch.]]></description>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Tim-Ostrander/parley-releases/releases/download/v1.2.0-build6/Parley-1.2.0-6.dmg" type="application/octet-stream" sparkle:edSignature="wgMaTTMIppufbK7c8xhP8NyZNCxCvOk9c7RiZ4w2cnIwKKOjLB/0X4qaSEv0f0awFuiNCZ6UfCdaWwXyc63nDg==" length="183666555" />
+    </item>
+    <item>
       <title>Parley 1.1.2 (build 5)</title>
       <pubDate>Mon, 28 Sep 2026 21:05:25 +0000</pubDate>
       <description><![CDATA[Parley 1.1.2 — clearer feedback: rooms, channels and buttons highlight on hover and animate when clicked; Settings always returns you to where you were; Output volume now applies to everyone you hear; Mumble uses the microphone and speakers chosen in Settings; switching spaces and servers lands where you meant to go.]]></description>
