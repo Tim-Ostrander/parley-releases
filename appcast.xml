@@ -6,6 +6,15 @@
     <description>Parley updates</description>
     <language>en</language>
     <item>
+      <title>Parley 1.8.0 (build 15)</title>
+      <pubDate>Fri, 02 Oct 2026 19:29:01 +0000</pubDate>
+      <description><![CDATA[Parley 1.8.0 (build 15).]]></description>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Tim-Ostrander/parley-releases/releases/download/v1.8.0-build15/Parley-1.8.0-15.dmg" type="application/octet-stream" sparkle:edSignature="Fz68DIryhN6B2/+u/+BaxHv+yY1quZ+apV0DQHpPJNCgiYvEwjHsvVJ8agISduIVQrt6dChvrE9cF/lXyPhqDw==" length="186169053" />
+    </item>
+    <item>
       <title>Parley 1.7.0 (build 14)</title>
       <pubDate>Thu, 01 Oct 2026 03:20:16 +0000</pubDate>
       <description><![CDATA[Parley 1.7.0 (build 14).]]></description>
