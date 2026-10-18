@@ -6,6 +6,15 @@
     <description>Parley updates</description>
     <language>en</language>
     <item>
+      <title>Parley 1.9.3 (build 19)</title>
+      <pubDate>Sun, 18 Oct 2026 04:19:04 +0000</pubDate>
+      <description><![CDATA[Parley 1.9.3 (build 19): iPhone sized for phones, per-person volume that really changes the audio, Mumble private replies, recording notices, ban-list guards and steadier screen sharing with Rumble.]]></description>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>1.9.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Tim-Ostrander/parley-releases/releases/download/v1.9.3-build19/Parley-1.9.3-19.dmg" type="application/octet-stream" sparkle:edSignature="6MxJzYH1xl5SWaiDCiY81SpyDLZFTtvrEY7qDC60l58xiLbSeCsHo2ismmZDEBI4WpklqdEeR6VsL8999QAHDQ==" length="186310383" />
+    </item>
+    <item>
       <title>Parley 1.9.1 (build 17)</title>
       <pubDate>Sat, 03 Oct 2026 01:10:36 +0000</pubDate>
       <description><![CDATA[Parley 1.9.1 (build 17).]]></description>
